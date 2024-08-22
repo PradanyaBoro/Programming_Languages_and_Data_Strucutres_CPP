@@ -1,6 +1,6 @@
 # Programming Languages and Data Structures - C++ Code Repository
 
-Welcome to my drive, which contains all the C++ codes from my M.Sc. first-year course titled **Programming Languages and Data Structures**. This repository is organized into two main folders: **PDFs** and **Codes**.
+Welcome to my repo, which contains all the C++ codes from my M.Sc. first-year course titled **Programming Languages and Data Structures**. This repository is organized into two main folders: **PDFs** and **Codes**.
 
 ## Folder Structure
 
